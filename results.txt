@@ -1,0 +1,2 @@
+ans | DBMS | Score: 1/1 | Percentage: 100.00%
+Anshul | DBMS | Score: 2/3 | Percentage: 66.67%
